@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>***</string>
+                        <string>https://github.com/FQDEVER/TestDownDemo/blob/master/JTour5.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -33,15 +33,15 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>****</string>
+                    <string>com.ltffuture.www</string>
                     <key>bundle-version</key>
-                    <string>****</string>
+                    <string>1020</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>*****</string>
+                    <string>是否继续下载</string>
                     <key>title</key>
-                    <string>****</string>
+                    <string>提示</string>
                 </dict>
             </dict>
         </array>
