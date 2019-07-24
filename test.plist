@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/FQDEVER/TestDownDemo/blob/master/JTour5.ipa</string>
+                        <string>https://www.baidu.com</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -39,7 +39,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>提示下载</string>
+                    <string>军拓</string>
                     <key>title</key>
                     <string>军拓</string>
                 </dict>
