@@ -39,9 +39,9 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>是否继续下载</string>
+                    <string>提示下载</string>
                     <key>title</key>
-                    <string>提示</string>
+                    <string>军拓</string>
                 </dict>
             </dict>
         </array>
