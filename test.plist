@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>xxxxxxxx</string>
+                        <string>http://www.sscoin.me/files/apps/guoxue.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -33,15 +33,15 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>xxxxxxxxx</string>
+                    <string>com.kinmall.guoxueshijie</string>
                     <key>bundle-version</key>
-                    <string>xxxxxxx</string>
+                    <string>0.0.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>xxxxxxx</string>
+                    <string>国学世界</string>
                     <key>title</key>
-                    <string>xxxxxxx</string>
+                    <string>国学世界</string>
                 </dict>
             </dict>
         </array>
